@@ -10,7 +10,7 @@ Minjae Lee(ml6722@nyu.edu)
 
 Joseph Lee(jtl9244@nyu.edu) 
 
-Brandon Tang    
+Brandon Tang（bjt312@nyu.edu）
 
 ## Stakeholders
 
