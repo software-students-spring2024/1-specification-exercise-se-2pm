@@ -18,7 +18,9 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+We aim to build a social media app with vibrant design and relatable content for reviewing restaurants, study spaces, etc. around university campus to provide services for college 
+
+students and their parents.
 
 ## User Requirements
 
