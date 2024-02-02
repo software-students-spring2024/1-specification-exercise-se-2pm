@@ -4,10 +4,13 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Wei Luo(yl7408@nyu.edu) \n
-Minjae Lee(ml6722@nyu.edu) \n
-Joseph Lee(jtl9244@nyu.edu) \n
-Brandon Tang    \n
+Wei Luo(yl7408@nyu.edu) 
+
+Minjae Lee(ml6722@nyu.edu) 
+
+Joseph Lee(jtl9244@nyu.edu) 
+
+Brandon Tang    
 
 ## Stakeholders
 
