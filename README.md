@@ -14,8 +14,7 @@ Brandon Tang（bjt312@nyu.edu）
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
+Alexander Xu
 ## Product Vision Statement
 
 We aim to build a social media app with vibrant design and relatable content for reviewing restaurants, study spaces, etc. around university campus to provide services for college 
@@ -23,8 +22,12 @@ students and their parents.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
-
+As a user, I want to use the rating app so that I can share my experience with restaurants, study spaces etc around campus.
+As a user, I want to use the rating app so that I can refer to other user’s reviews on restaurants, study spaces etc around campus before making a decision.
+As a user, I want to use the rating app so that I can earn coupons for real-life commodities for rating their experience with restaurants, study spaces etc around campus.
+As a user, I want to use the rating app so that I can acknowledge events going on in places around the campus.
+As a user, I want to use the rating app so that I can know what places around campus is trendy among my peers in college.
+As a user, I want to use the rating app so that I can thrift shop used goods like furniture from other users.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
