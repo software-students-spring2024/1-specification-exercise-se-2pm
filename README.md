@@ -23,10 +23,15 @@ students and their parents.
 ## User Requirements
 
 As a user, I want to use the rating app so that I can share my experience with restaurants, study spaces etc around campus.
+
 As a user, I want to use the rating app so that I can refer to other user’s reviews on restaurants, study spaces etc around campus before making a decision.
+
 As a user, I want to use the rating app so that I can earn coupons for real-life commodities for rating their experience with restaurants, study spaces etc around campus.
+
 As a user, I want to use the rating app so that I can acknowledge events going on in places around the campus.
+
 As a user, I want to use the rating app so that I can know what places around campus is trendy among my peers in college.
+
 As a user, I want to use the rating app so that I can thrift shop used goods like furniture from other users.
 ## Activity Diagrams
 
