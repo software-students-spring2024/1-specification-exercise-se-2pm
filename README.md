@@ -15,6 +15,8 @@ Brandon Tang（bjt312@nyu.edu）
 ## Stakeholders
 
 Alexander Xu
+
+Nick Xu
 ## Product Vision Statement
 
 We aim to build a social media app with vibrant design and relatable content for reviewing restaurants, study spaces, etc. around university campus to provide services for college 
@@ -33,6 +35,9 @@ As a user, I want to use the rating app so that I can acknowledge events going o
 As a user, I want to use the rating app so that I can know what places around campus is trendy among my peers in college.
 
 As a user, I want to use the rating app so that I can thrift shop used goods like furniture from other users.
+
+As a user, I want to use the rating app so that I can interact with other users through Direct Messages efficiently.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
