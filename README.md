@@ -16,7 +16,23 @@ Brandon Tang（bjt312@nyu.edu）
 
 Alexander Xu
 
++User commiunity is focused on college students on this product.
+
++ Design and advertisement are specificallly targeting college students
+
+- No posting system on our products can support more practicial functions of this product such as thrift shopping.
+
+- Inventive is not necessary for this app to be active.
+
 Nick Xu
+
++ User posting on this app is relevent to the daily life of college students.
+
++ Incentives is a good idea to keep this app being active
+
+- The app does not have an efficient DM system yet.
+
+- UI main page needs to be specifically designed to attract young audience by using large post images.
 ## Product Vision Statement
 
 We aim to build a social media app with vibrant design and relatable content for reviewing restaurants, study spaces, etc. around university campus to provide services for college 
