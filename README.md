@@ -18,7 +18,7 @@ Wei Luo
 
 Stakeholder 1
 
-+ +User community is focused on college students this product.
++ The user community is focused on college students this product.
 
 + +Design and advertisement are specifically targeting college students
 
@@ -26,9 +26,9 @@ Stakeholder 1
 
 - -Inventive is not necessary for this app to be active.
 
-Stackholder 2
+Stakeholder 2
 
-+ +User posting on this app is relevant to the daily life of college students.
++ User posting on this app is relevant to the daily life of college students.
 
 + +Incentives is a good idea to keep this app active
 
