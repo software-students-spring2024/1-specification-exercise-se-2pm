@@ -42,13 +42,13 @@ students and their parents.
 
 As a user, I want to use the rating app so that I can share my experience with restaurants, study spaces etc around campus.
 
-As a user, I want to use the rating app so that I can refer to other user’s reviews on restaurants, study spaces etc around campus before making a decision.
+As a user, I want to use the rating app so that I can refer to other users’ reviews on restaurants, study spaces, etc around campus before making a decision.
 
-As a user, I want to use the rating app so that I can earn coupons for real-life commodities for rating their experience with restaurants, study spaces etc around campus.
+As a user, I want to use the rating app so that I can earn coupons for real-life commodities for rating their experience with restaurants, study spaces, etc around campus.
 
 As a user, I want to use the rating app so that I can acknowledge events going on in places around the campus.
 
-As a user, I want to use the rating app so that I can know what places around campus is trendy among my peers in college.
+As a user, I want to use the rating app so that I can know what places around campus are trendy among my peers in college.
 
 As a user, I want to use the rating app so that I can thrift shop used goods like furniture from other users.
 
@@ -56,8 +56,10 @@ As a user, I want to use the rating app so that I can interact with other users 
 
 ## Activity Diagrams
 
+Most of the interviewees want DM and a public forum. Some want a map. Incentive system, free products, and coupons, keep.
+
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+See instructions. Delete this line and place a publicly accessible link to your clickable prototype here.
