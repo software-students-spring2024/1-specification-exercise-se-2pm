@@ -14,7 +14,9 @@ Brandon Tang（bjt312@nyu.edu）
 
 ## Stakeholders
 
-Alexander Xu
+Wei Luo
+
+Stakeholder 1
 
 + +User community is focused on college students this product.
 
@@ -24,7 +26,7 @@ Alexander Xu
 
 - -Inventive is not necessary for this app to be active.
 
-Nick Xu
+Stackholder 2
 
 + +User posting on this app is relevant to the daily life of college students.
 
@@ -56,7 +58,7 @@ As a user, I want to use the rating app so that I can interact with other users 
 
 ## Activity Diagrams
 
-Most of the interviewees want DM and a public forum. Some want a map. Incentive system, free products, and coupons, keep.
+Most of the interviewees want DM and a public forum. Some want a map. Incentive system, free products, and coupons, keep. Incentives tagged more, more incentives.
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
