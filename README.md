@@ -35,6 +35,36 @@ Stakeholder 2
 - -The app does not have an efficient DM system yet.
 
 - -UI main page needs to be specifically designed to attract young audiences by using large post images.
+
+Minjae Lee
+
+Stakeholder 3
+
++ +Wants to see a photo review of restaurants showing food, design, menu, etc around the campus
+
++ +Wants to click on the restaurant to see the location, opening time, average price, menu, possibly using a map.
+
+- -Business owners are not able to react to wrong reviews, or problems that were true before but are fixed now. There could be a feature to fix this frustration.
+
+- -There should be an incentive to review such as providing coupons.
+
+- -Does not want to see wrong or random reviews of people who did not even visit the place. There could be a feature to filter or validate people if they actually visited the place (e.g. scanning receipt)
+
+Stakeholder 4
+
++ +Wants to see a video review of restaurant
+
++ +Wants to save/bookmark a restaurant while scrolling through reviews. 
+
++ +Wants to see likes/views feature to know how helpful the review was for other people. This could also lead to giving incentive to people to review.
+
++ +Wants to directly make a reservation through the app.
+
++ +Wants to see public polls to understand what others think about a certain place, (E.g. McDonalds vs Burger King) and also to interact more with the app.
+
+- -There should be an incentive to review such as providing coupons. 
+
+- -Communication may not be necessary among peers, so direct messages could be unnecessary. DMs could add to the stress of talking to random people online. Prefers comments. 
 ## Product Vision Statement
 
 We aim to build a social media app with vibrant design and relatable content for reviewing restaurants, study spaces, etc. around university campus to provide services for college 
