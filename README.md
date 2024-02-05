@@ -10,7 +10,7 @@ Minjae Lee(ml6722@nyu.edu)
 
 Joseph Lee(jtl9244@nyu.edu) 
 
-Brandon Tang（bjt312@nyu.edu）
+Brendan Tang（bjt312@nyu.edu）
 
 ## Stakeholders
 
@@ -64,7 +64,20 @@ Stakeholder 4
 
 - -There should be an incentive to review such as providing coupons. 
 
-- -Communication may not be necessary among peers, so direct messages could be unnecessary. DMs could add to the stress of talking to random people online. Prefers comments. 
+- -Communication may not be necessary among peers, so direct messages could be unnecessary. DMs could add to the stress of talking to random people online. Prefers comments.
+
+Brendan Tang
+
+Stakeholder 5
+
++ +Want to be able to view ratings and reviews, as well as being able to sort by ratings and reviews
+
++ +Want to emphasize locations that are more targeted towards students such as restaurants closer to campus or quiet study spaces for getting work done.
+
+- -There should be incentives to leave high quality reviews with comments and pictures
+
+- -High quality reviews can contribute towards tickets for giveaways and prizes
+
 ## Product Vision Statement
 
 We aim to build a social media app with vibrant design and relatable content for reviewing restaurants, study spaces, etc. around university campus to provide services for college 
