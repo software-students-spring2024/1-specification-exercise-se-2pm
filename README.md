@@ -20,7 +20,7 @@ Alexander Xu
 
 + +Design and advertisement are specifically targeting college students
 
-- -No posting space on our products can support more practical functions of this product such as thrift shopping.
+- -No public forum to exchange information.
 
 - -Inventive is not necessary for this app to be active.
 
