@@ -97,7 +97,7 @@ students and their parents.
 
 ## User Requirements
 
-As a user, I want to use the rating app so that I can share my experience with restaurants, study spaces etc around campus.
+As a user, I want to comment and/or rate places on the rating app so that I can share my experience with restaurants, study spaces etc around campus.
 
 As a user, I want to use the rating app so that I can refer to other users’ reviews on restaurants, study spaces, etc around campus before making a decision.
 
