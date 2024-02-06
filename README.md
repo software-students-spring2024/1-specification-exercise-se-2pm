@@ -111,6 +111,12 @@ As a user, I want to use the rating app so that I can thrift shop used goods lik
 
 As a user, I want to use the rating app so that I can interact with other users through Direct Messages efficiently.
 
+As a user, I want to use the rating app so that I can sort experiences by rating and distance.
+
+As a user, I want to use the rating app so that I can comment on other people's experiences.
+
+As a user, I want to use the rating app so that I can create and edit my own profile.
+
 ## Activity Diagrams
 
 Most of the interviewees want DM and a public forum. Some want a map. Incentive system, free products, and coupons, keep. Incentives tagged more, more incentives.
