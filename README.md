@@ -78,6 +78,18 @@ Stakeholder 5
 
 - -High quality reviews can contribute towards tickets for giveaways and prizes
 
+Joseph Lee
+
+Stakeholder 6
+
++ +Wants to be able to view interesting places around campus and navigate to them through a map
+
++ +Wants to be able to review spaces/restaurants around campus through a multi-starred system based around pre-determined parameters
+
+- -Dissatisfied with recommendations for food/campus life currently available and would like a place where everything can be aggregated with high-quality recommendations
+
+- -Public forums about college campuses tend to be repetitive and not as informative as they would like and would like a better system
+
 ## Product Vision Statement
 
 We aim to build a social media app with vibrant design and relatable content for reviewing restaurants, study spaces, etc. around university campus to provide services for college 
