@@ -107,8 +107,6 @@ As a user, I want to use the rating app so that I can acknowledge events going o
 
 As a user, I want to use the rating app so that I can know what places around campus are trendy among my peers in college.
 
-As a user, I want to use the rating app so that I can thrift shop used goods like furniture from other users.
-
 As a user, I want to use the rating app so that I can interact with other users through Direct Messages efficiently.
 
 As a user, I want to use the rating app so that I can sort experiences by rating and distance.
