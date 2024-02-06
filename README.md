@@ -117,9 +117,8 @@ As a user, I want to use the rating app so that I can create and edit my own pro
 
 ## Activity Diagrams
 
-Most of the interviewees want DM and a public forum. Some want a map. Incentive system, free products, and coupons, keep. Incentives tagged more, more incentives.
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Model](https://github.com/software-students-spring2024/1-specification-exercise-se-2pm/blob/main/SE2pm1.png)
+![Model](https://github.com/software-students-spring2024/1-specification-exercise-se-2pm/blob/main/SE2pm2.png)
 
 ## Clickable Prototype
 
