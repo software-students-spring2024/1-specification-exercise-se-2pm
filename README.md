@@ -121,5 +121,4 @@ As a user, I want to use the rating app so that I can create and edit my own pro
 ![Model](https://github.com/software-students-spring2024/1-specification-exercise-se-2pm/blob/main/SE2PM2.png)
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly accessible link to your clickable prototype here.
+https://www.figma.com/file/W7rcMqis4dBXQEXGa9B6j8/Wireframe-1-My-Feed?type=design&node-id=0%3A1&mode=design&t=cX5iffSwN3gxoi1J-1
