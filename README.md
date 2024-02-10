@@ -120,7 +120,7 @@ As a user, I want to use the rating app so that I can create and edit my own pro
 ## Activity Diagrams
 
 ![Model](https://github.com/software-students-spring2024/1-specification-exercise-se-2pm/blob/main/reviewUML.png)
-![Model](https://github.com/software-students-spring2024/1-specification-exercise-se-2pm/blob/main/SE2PM2.png)
+![Model](https://github.com/software-students-spring2024/1-specification-exercise-se-2pm/blob/main/UML-DM.png)
 
 ## Clickable Prototype
 https://www.figma.com/proto/qK2wX01ZHX4I3CTYm7PZWs/Wireframe%26Prototype?type=design&t=riMmyhy49mb0t4Tk-0&scaling=scale-down&page-id=0%3A1&node-id=1-4&starting-point-node-id=1%3A4
