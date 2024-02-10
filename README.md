@@ -103,6 +103,8 @@ As a user, I want to use the rating app so that I can refer to other users’ re
 
 As a user, I want to use the rating app so that I can earn coupons for real-life commodities for rating their experience with restaurants, study spaces, etc around campus.
 
+As a user, I want to use the rating app so that I can use the map function to see the good places arund me.
+
 As a user, I want to use the rating app so that I can acknowledge events going on in places around the campus.
 
 As a user, I want to use the rating app so that I can know what places around campus are trendy among my peers in college.
