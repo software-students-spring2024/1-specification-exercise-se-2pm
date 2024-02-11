@@ -113,7 +113,7 @@ As a user, I want to use the rating app so that I can know what places around ca
 
 As a user, I want to use the rating app so that I can interact with other users through Direct Messages efficiently.
 
-As a user, I want to use the rating app so that I can sort experiences by rating and distance.
+As a user, I want to use the rating app so that I can see fellow commenter's profile.
 
 As a user, I want to use the rating app so that I can comment on other people's experiences.
 
